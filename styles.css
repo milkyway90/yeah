@@ -1,0 +1,12 @@
+body{
+    background-color: darkseagreen;
+}
+header{
+    position: fixed;
+    right: 45%;
+    bottom: 45%;
+    font-size: 100px;
+    font-style: italic;
+    font-family: 'Segoe UI';
+    color: floralwhite;
+}
